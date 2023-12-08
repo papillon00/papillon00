@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @papillon00
-- 👀 I’m interested in learning how to perform data analysis usiing python
-- 🌱 I’m currently learning python, ruby and java
+- 👀 I’m a Data Analyst and I am building up my portfolio
+- 🌱 I’m currently learning python, java and ruby
 - 📫 How to reach me: sandytzujuchen@gmail.com
 
 <!---
